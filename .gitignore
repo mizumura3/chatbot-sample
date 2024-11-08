@@ -11,4 +11,4 @@ wheels/
 app.log
 
 .env
-.idea/
+.idea
